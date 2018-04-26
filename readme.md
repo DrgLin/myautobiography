@@ -1,9 +1,9 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/DrgLin/myautobiography/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## 林俊龍(JunLong Lin)
+- Education:僑光科技大學 / 資訊科技系
+  Location: Taichung City
+- E-mail: ttps41012956@gmail.com
+- Mobile: 0953-099-621
+<hr>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
