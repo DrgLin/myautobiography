@@ -1,6 +1,6 @@
 # 林俊龍(JunLong Lin)
 - Education:僑光科技大學 / 資訊科技系
-- Location: Taichung City
+- Location: Taichung City
 - E-mail: ttps41012956@gmail.com
 - Mobile: 0953-099-621
 <hr>
