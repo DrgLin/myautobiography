@@ -16,15 +16,14 @@
 <hr>
 
 ### 作品集 
-- <a href="https://drglin.github.io/myautobiography/" target="_blank><B>個人自傳網頁</B>(RWD)</a> <BR>
+- <a href="https://drglin.github.io/myautobiography/" target="_blank"><B>個人自傳網頁</B> (RWD)</a> <BR>
   ⌞ 運用純 CSS 搭建RWD響應式網頁。 <BR>
   ⌞ 搭配 Jquery 讓網頁更為生動<BR>
 
 - <a href="http://drglin0709.nctu.me" target="_blank"><B>Boostrap 4</B> (RWD)</a> <BR>
   ⌞ Bootstrap 快速搭建響應式網頁 。 <BR>
-  <a href="https://ptt-soft-job-sniper.herokuapp.com/" target="_blank">Ptt Soft_job Sniper</a>
-  
-- <a href="http://cclab.ocu.edu.tw/x59/HK/index.aspx" target="_blank><B>第一個作品</B> (RWD)</a> <BR>
+
+- <a href="http://cclab.ocu.edu.tw/x59/HK/index.aspx" target="_blank"><B>第一個作品</B> (RWD)</a> <BR>
   ⌞ 透過 asp.net 與 SQL Sever 搭建的個人網站。 <BR>
   ⌞ 使用政府開放平台抓取JSON資料，並透過 Ajax 呈現在網頁上<BR>
   
@@ -32,6 +31,6 @@
   ⌞ 透過 Jquery 外掛 建構的全屏滾動網頁。 <BR>
   ⌞ 搭配純 css 增加動畫效果<BR>
   
-- <a href="https://drglin.github.io/API/API.HTML" target="_blank><B>高雄旅遊資訊</B> (RWD)</a> <BR>
+- <a href="https://drglin.github.io/API/API.HTML" target="_blank"><B>高雄旅遊資訊</B> (RWD)</a> <BR>
   ⌞ 透過 政府公開資料進行即時更新。 <BR>
   ⌞ 透過 Boostrap 進行快速開發 。 <BR>
