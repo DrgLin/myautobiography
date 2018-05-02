@@ -15,9 +15,6 @@
 - 利用 AJAX 撈取遠端JSON資料並顯示在網頁。
 <hr>
 
-### 工作經驗 
--<hr>
-
 ### 作品集 
 - <a href="https://drglin.github.io/myautobiography/" target="_blank><B>個人自傳網頁</B> (RWD)</a> <BR>
   ⌞ 運用純 CSS 搭建RWD響應式網頁。 <BR>
