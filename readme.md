@@ -27,7 +27,7 @@
   ⌞ 透過 asp.net 與 SQL Sever 搭建的個人網站。 <BR>
   ⌞ 使用政府開放平台抓取JSON資料，並透過 Ajax 呈現在網頁上<BR>
   
-- <a href="https://drglin.github.io/fullpage/fullpage.html"  target="_blank"><B>fullpage</B> (RWD)</a> <BR>
+- <a href="https://drglin.github.io/fullpage/fullpage.html" target="_blank"><B>fullpage</B> (RWD)</a> <BR>
   ⌞ 透過 Jquery 外掛 建構的全屏滾動網頁。 <BR>
   ⌞ 搭配純 css 增加動畫效果<BR>
   
