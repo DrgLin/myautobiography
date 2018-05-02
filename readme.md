@@ -31,4 +31,7 @@
 - <a href="https://drglin.github.io/fullpage/fullpage.html"  target="_blank"><B>fullpage</B> (RWD)</a> <BR>
   ⌞ 透過 Jquery 外掛 建構的全屏滾動網頁。 <BR>
   ⌞ 搭配純 css 增加動畫效果<BR>
-
+  
+- <a href="https://drglin.github.io/API/API.HTML" target="_blank><B>高雄旅遊資訊</B> (RWD)</a> <BR>
+  ⌞ 透過 政府公開資料進行即時更新。 <BR>
+  ⌞ 透過 Boostrap 進行快速開發 。 <BR>
