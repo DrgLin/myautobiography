@@ -16,13 +16,13 @@
 <hr>
 
 ### 作品集 
-- <a href="https://drglin.github.io/myautobiography/" target="_blank><B>個人自傳網頁</B> (RWD)</a> <BR>
+- <a href="https://drglin.github.io/myautobiography/" target="_blank><B>個人自傳網頁</B>(RWD)</a> <BR>
   ⌞ 運用純 CSS 搭建RWD響應式網頁。 <BR>
   ⌞ 搭配 Jquery 讓網頁更為生動<BR>
 
 - <a href="http://drglin0709.nctu.me" target="_blank"><B>Boostrap 4</B> (RWD)</a> <BR>
   ⌞ Bootstrap 快速搭建響應式網頁 。 <BR>
-  
+  <a href="https://ptt-soft-job-sniper.herokuapp.com/" target="_blank">Ptt Soft_job Sniper</a>
   
 - <a href="http://cclab.ocu.edu.tw/x59/HK/index.aspx" target="_blank><B>第一個作品</B> (RWD)</a> <BR>
   ⌞ 透過 asp.net 與 SQL Sever 搭建的個人網站。 <BR>
