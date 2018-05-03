@@ -32,5 +32,5 @@
   ⌞ 搭配純 css 增加動畫效果<BR>
   
 - <a href="https://drglin.github.io/API/API.HTML"  target="_blank"><B>高雄旅遊資訊</B></a> <BR>
-  ⌞ 透過 政府公開資料進行即時更新。 <BR>
+  ⌞ 透過 AJAX 帶入即時資訊，串接高雄市政府開放資料 <BR>
   ⌞ 透過 Boostrap 進行快速開發 。 <BR>
