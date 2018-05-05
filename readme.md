@@ -15,6 +15,7 @@
 - 利用 AJAX 撈取遠端JSON資料並顯示在網頁。
 <hr>
 ## 專研中
+- 利用 AJAX 撈取遠端JSON資料並顯示在網頁。
 - git 版本控制：能夠使用 Github Desktop 進行版本控制。<BR>
 - SASS/SCSS ：目前已經開始使用sass/scss技術開發。<BR>
 - vue.js node.js :已經有初步概念，尚未實際開發過。<BR>
