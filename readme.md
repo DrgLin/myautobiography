@@ -15,9 +15,9 @@
 - 利用 AJAX 撈取遠端JSON資料並顯示在網頁。
 <hr>
 ## 專研中
--git 
-- SASS / SCSS 
-- vue.js / node.js
+- git 版本控制：能夠使用 Github Desktop 進行版本控制。
+- SASS/SCSS ：目前已經開始使用sass/scss技術開發。
+- vue.js node.js :已經有初步概念，尚未實際開發過。
 
 ### 作品集 
 - <a href="https://drglin.github.io/myautobiography/"  target="_blank"><B>個人自傳網頁</B></a> <BR>
