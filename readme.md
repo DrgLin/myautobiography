@@ -14,6 +14,10 @@
 - 使用 photoshop 進行簡單的網頁切版。
 - 利用 AJAX 撈取遠端JSON資料並顯示在網頁。
 <hr>
+## 專研中
+- git 
+- SASS / SCSS 
+- vue.js / node.js
 
 ### 作品集 
 - <a href="https://drglin.github.io/myautobiography/"  target="_blank"><B>個人自傳網頁</B></a> <BR>
