@@ -15,7 +15,7 @@
 - 利用 AJAX 撈取遠端JSON資料並顯示在網頁。
 <hr>
 ## 專研中
-- git 
+-git 
 - SASS / SCSS 
 - vue.js / node.js
 
