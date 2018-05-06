@@ -33,6 +33,7 @@
 
 - <a href="http://cclab.ocu.edu.tw/x59/HK/index.aspx"  target="_blank"><B>第一個作品</B></a> <BR>
   ⌞ 透過 asp.net 與 SQL Sever 搭建的個人網站。 <BR>
+  ⌞ 會員(帳號：member 密碼：1234)、管理者(帳號：Admin 密碼：1234)
   ⌞ 使用政府開放平台抓取JSON資料，並透過 Ajax 呈現在網頁上<BR>
   
 - <a href="https://drglin.github.io/fullpage/fullpage.html"  target="_blank"><B>FullPage</B></a> <BR>
